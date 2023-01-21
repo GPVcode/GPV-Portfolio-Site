@@ -1,16 +1,18 @@
 import React from "react";
 import "./footer.css";
+import logo from "../../assets/1.png"
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Villaruel</h1>
-
+        <div className="footer__title">
+          <img src={logo} alt="" className="footer__title" />
+        </div>
         <ul className="footer__list">
           <li>
-            <a href="#about" className="footer__link">
-              About
+            <a href="#skills" className="footer__link">
+              Skills
             </a>
           </li>
 
@@ -21,15 +23,15 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="#testimonials" className="footer__link">
-              Testimonials
+            <a href="#contact" className="footer__link">
+              Contact
             </a>
           </li>
         </ul>
 
         <div className="footer__social">
           <a
-            href="https://www.facebook.com/"
+            href="https://www.facebook.com/GPVdev/"
             className="footer__social-link"
             target="_blank"
           >
@@ -37,7 +39,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.instagram.com/"
+            href="https://www.instagram.com/gabe.vllrl/"
             className="footer__social-link"
             target="_blank"
           >
@@ -45,7 +47,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://twitter.com/"
+            href="https://twitter.com/GPVdev"
             className="footer__social-link"
             target="_blank"
           >
