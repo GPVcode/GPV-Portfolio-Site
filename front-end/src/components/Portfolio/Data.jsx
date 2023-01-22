@@ -1,44 +1,45 @@
-import Work1 from "../../assets/Restaurant-Reservation3.png";
-import Work2 from "../../assets/Tenzies.png";
-import Work3 from "../../assets/WLMHome.png";
-import Work4 from "../../assets/FlashcardsApp.png";
-import Work5 from "../../assets/work5.jpg";
+import RestaurantReservation from "../../assets/Restaurant-Reservation3.png";
+import WeLoveMovies from "../../assets/WLMHome.png";
+import Flashcards from "../../assets/FlashcardsApp.png";
+import Tenzies from "../../assets/Tenzies.png";
+import DecoderRing from "../../assets/CeasarShift.png";
 
 export const projectsData = [
   {
     id: 1,
-    image: Work1,
+    image: RestaurantReservation,
     title: "Fullstack Restaurant Reservation App",
     category: "Fullstack",
     link: "https://restaurant-reservation-app-navy.vercel.app/dashboard"
   },
   {
     id: 2,
-    image: Work2,
-    title: "Tenzies Game",
-    category: "Frontend",
-    link: "https://tenzies-two.vercel.app/"
-  },
-  {
-    id: 3,
-    image: Work3,
+    image: WeLoveMovies,
     title: "Movie Website App",
     category: "Backend",
     link: "https://github.com/GPVcode/We-Love-Movies-Project"
   },
   {
-    id: 4,
-    image: Work4,
+    id: 3,
+    image: Flashcards,
     title: "GPVdev Flashcards App",
     category: "Frontend",
     link: "https://gpv-flashcards.vercel.app/"
   },
-  // {
-  //   id: 5,
-  //   image: Work5,
-  //   title: "Web design",
-  //   category: "Fullstack",
-  // },
+  {
+    id: 4,
+    image: Tenzies,
+    title: "Tenzies Game",
+    category: "Frontend",
+    link: "https://tenzies-two.vercel.app/"
+  },
+  {
+    id: 5,
+    image: DecoderRing,
+    title: "Decoder Ring",
+    category: "Frontend",
+    link: "https://decoder-ring-omega.vercel.app/"
+  },
 ];
 
 // projects
