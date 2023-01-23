@@ -1,6 +1,6 @@
 # GPVdev Portfolio site
 
-This project was bootstrapped with [GPVdev Website](https://www.gpvdev.com).
+Live link to my site: [GPVdev Website](https://www.gpvdev.com).
 
-I built this website to showcase my work as a software engineer. This is an ongoing project that I will continue to update as I build new projects and add new features to my site. Thank you for visiting!
+I built this website to showcase my work as a software engineer. This project is ongoing, and I will continue to update it as I create new projects and add new features to my site. Thank you for visiting!
 
