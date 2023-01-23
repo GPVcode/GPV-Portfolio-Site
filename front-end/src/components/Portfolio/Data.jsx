@@ -3,6 +3,7 @@ import WeLoveMovies from "../../assets/WLMHome.png";
 import Flashcards from "../../assets/FlashcardsApp.png";
 import Tenzies from "../../assets/Tenzies.png";
 import DecoderRing from "../../assets/CeasarShift.png";
+import GPVdevbnb from "../../assets/GPVdevbnb.png"
 
 export const projectsData = [
   {
@@ -40,6 +41,13 @@ export const projectsData = [
     category: "Frontend",
     link: "https://decoder-ring-omega.vercel.app/"
   },
+  {
+    id: 6,
+    image: GPVdevbnb,
+    tite: "GPVdevbnb",
+    category: "Frontend",
+    link: "https://gpvdevbnb.vercel.app"
+  }
 ];
 
 // projects
