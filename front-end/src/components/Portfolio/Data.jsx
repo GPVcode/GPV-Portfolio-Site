@@ -44,7 +44,7 @@ export const projectsData = [
   {
     id: 6,
     image: GPVdevbnb,
-    tite: "GPVdevbnb",
+    title: "GPVdevbnb",
     category: "Frontend",
     link: "https://gpvdevbnb.vercel.app"
   }
