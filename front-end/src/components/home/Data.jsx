@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        I'm software engineer based in Los Angeles with a deep passion for coding and technology. My goal is to cultivate global empathy and to use my knowledge of technology to intelligenty improve the world.
+        I'm a software engineer based in Los Angeles with a deep passion for coding and technology. My goal is to cultivate global empathy and to use my knowledge of technology to intelligenty improve the world.
       </p>
 
       <a href="#contact" className="button button--flex">
