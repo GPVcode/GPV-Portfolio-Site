@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./header.css";
 import logo from "../../assets/1.png"
+import resume from "../../assets/Gabriel Villaruel Resume.docx"
 
 const Header = () => {
   /*=============== Change Background Header ===============*/
@@ -114,6 +115,12 @@ const Header = () => {
                 }
               >
                 <i className="uil uil-message nav__icon"></i> Contact
+              </a>
+            </li>
+            
+            <li className="nav__item">
+              <a download="" href={resume} className="nav__link">
+              <i className="uil uil-message nav__icon"></i> Resume
               </a>
             </li>
           </ul>

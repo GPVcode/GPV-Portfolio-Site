@@ -1,4 +1,5 @@
 import React from "react";
+import leetcode from "../../assets/leetcode2.svg"
 
 const Social = () => {
   return (
@@ -10,13 +11,14 @@ const Social = () => {
       >
         <i className="uil uil-instagram"></i>
       </a>
-
+      
       <a
         href="https://leetcode.com/gpv/"
         className="home__social-icon"
         target="_blank"
       >
-        <i className="uil uil-dribbble"></i>
+        <img src={leetcode} href="https://leetcode.com/gpv/" alt="leetcode logo" className="home__social-icon" />
+        <i className="uil uil-leetcode"></i>
       </a>
 
       <a
