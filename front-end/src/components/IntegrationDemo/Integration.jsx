@@ -7,7 +7,7 @@ const Integration = () => {
 const [isOpen, setOpen] = React.useState(false);
 
   const handleClick = () => {
-    setOpen(console.log("hellO!"));
+    {window.dataLayer.push({ 'event': 'DemoButtonClick'})}
   };
 
   return (
