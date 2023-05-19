@@ -4,7 +4,7 @@ import Flashcards from "../../assets/FlashcardsApp.png";
 import Tenzies from "../../assets/Tenzies.png";
 import DecoderRing from "../../assets/CeasarShift.png";
 import GPVdevbnb from "../../assets/GPVdevbnb.png";
-import memeGenerator from "../../assets/Meme Generator.png"
+// import memeGenerator from "../../assets/Meme Generator.png"
 
 export const projectsData = [
   {
@@ -48,14 +48,15 @@ export const projectsData = [
     title: "GPVdevbnb",
     category: "Frontend",
     link: "https://gpvdevbnb.vercel.app"
-  },
-  {
-    id: 7,
-    image: memeGenerator,
-    title: "Meme Generator",
-    category: "Frontend",
-    link: "https://meme-generator-seven-mauve.vercel.app/"
   }
+  // ,
+  // {
+  //   id: 7,
+  //   image: memeGenerator,
+  //   title: "Meme Generator",
+  //   category: "Frontend",
+  //   link: "https://meme-generator-seven-mauve.vercel.app/"
+  // }
 ];
 
 // projects
