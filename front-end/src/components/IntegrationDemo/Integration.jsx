@@ -12,8 +12,9 @@ const [isOpen, setOpen] = React.useState(false);
 
   return (
     <section >
-      <h2 className="section__title">Integration Demo</h2>
-      
+      <h3 className="section__title">
+        Integration Specialist Demo - Welcome! This site is currently being used for a project and will go back to its original form (plus) updates soon. To those this concerns, please see below for the project demo.
+      </h3>
       <div style={{
             display: 'flex',
             justifyContent: 'center',
