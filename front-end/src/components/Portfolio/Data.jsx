@@ -11,17 +11,17 @@ import aiAssistant from "../../assets/aiAssistant.png";
 export const projectsData = [
   {
     id: 1,
-    image: aiAssistant,
-    title: "Fullstack AI Assistant Chat App",
-    category: "Fullstack",
-    link: "https://github.com/GPVcode/aiAssistant"
-  },
-  {
-    id: 2,
     image: BlogPrimer,
     title: "Fullstack AI Blog Primer App",
     category: "Fullstack",
     link: "https://ai-blog-primer.onrender.com/"
+  },
+  {
+    id: 2,
+    image: aiAssistant,
+    title: "Fullstack AI Assistant Chat App",
+    category: "Fullstack",
+    link: "https://github.com/GPVcode/aiAssistant"
   },
   {
     id: 3,

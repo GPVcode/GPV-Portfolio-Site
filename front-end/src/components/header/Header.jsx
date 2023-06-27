@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./header.css";
 import logo from "../../assets/1.png"
-import resume from "../../assets/Gabriel Villaruel Resume.docx"
+import resume from "../../assets/Gabriel Villaruel - Resume.docx"
 
 const Header = () => {
   /*=============== Change Background Header ===============*/
