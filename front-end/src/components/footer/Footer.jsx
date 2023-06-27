@@ -33,7 +33,7 @@ const Footer = () => {
           <a
             href="https://www.facebook.com/GPVdev/"
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i className="bx bxl-facebook"></i>
           </a>
@@ -41,7 +41,7 @@ const Footer = () => {
           <a
             href="https://www.instagram.com/gabe.vllrl/"
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i className="bx bxl-instagram"></i>
           </a>
@@ -49,7 +49,7 @@ const Footer = () => {
           <a
             href="https://twitter.com/GPVdev"
             className="footer__social-link"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <i className="bx bxl-twitter"></i>
           </a>
