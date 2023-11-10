@@ -6,9 +6,14 @@ import DecoderRing from "../../assets/CeasarShift.png";
 import GPVdevbnb from "../../assets/GPVdevbnb.png";
 import BlogPrimer from "../../assets/AIBlogPrimer.png";
 import aiAssistant from "../../assets/aiAssistant.png";
-import ImageSearch from "../../assets/Image Search Project JS API.png";
 import ImagingAI from "../../assets/ImagingAI.jpg";
+import Parallax from "../../assets/Dreamers Parallax.png";
+import SwiftLearnings from "../../assets/Swift Learnings.png";
+
 // import memeGenerator from "../../assets/Meme Generator.png"
+// import ImageSearch from "../../assets/Image Search Project JS API.png";
+
+
 
 export const projectsData = [
   {
@@ -20,46 +25,60 @@ export const projectsData = [
   },
   {
     id: 2,
+    image: Parallax,
+    title: "Parallax Project",
+    category: "Frontend",
+    link: "https://parallax-opal-six.vercel.app/",
+  },
+  {
+    id: 3,
+    image: SwiftLearnings,
+    title: "AI Swift Learnings",
+    category: "Fullstack",
+    link: "https://swiftlearnings.vercel.app/",
+  },
+  {
+    id: 3,
     image: ImagingAI,
     title: "Fullstack AI Imaging App",
     category: "Fullstack",
     link: "https://imaging-ai.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     image: aiAssistant,
     title: "Fullstack AI Assistant Chat App",
     category: "Fullstack",
     link: "https://github.com/GPVcode/aiAssistant"
   },
   {
-    id: 4,
+    id: 5,
     image: RestaurantReservation,
     title: "Fullstack Restaurant Reservation App",
     category: "Fullstack",
     link: "https://restaurant-reservation-app-navy.vercel.app/dashboard"
   },
   {
-    id: 5,
+    id: 6,
     image: WeLoveMovies,
     title: "Movie Website App",
     category: "Backend",
     link: "https://github.com/GPVcode/We-Love-Movies-Project"
   },
   {
-    id: 6,
+    id: 7,
     image: Flashcards,
     title: "GPVdev Flashcards App",
     category: "Frontend",
     link: "https://gpv-flashcards.vercel.app/"
   },
-  {
-    id: 7,
-    image: ImageSearch,
-    title: "Image Search App",
-    category: "Frontend",
-    link: "https://image-gen-xi.vercel.app/"
-  },
+  // {
+  //   id: 8,
+  //   image: ImageSearch,
+  //   title: "Image Search App",
+  //   category: "Frontend",
+  //   link: "https://image-gen-xi.vercel.app/"
+  // },
   {
     id: 8,
     image: Tenzies,
