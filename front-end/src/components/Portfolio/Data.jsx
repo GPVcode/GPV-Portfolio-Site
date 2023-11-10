@@ -25,13 +25,6 @@ export const projectsData = [
   },
   {
     id: 2,
-    image: Parallax,
-    title: "Parallax Project",
-    category: "Frontend",
-    link: "https://parallax-opal-six.vercel.app/",
-  },
-  {
-    id: 3,
     image: SwiftLearnings,
     title: "AI Swift Learnings",
     category: "Fullstack",
@@ -39,34 +32,41 @@ export const projectsData = [
   },
   {
     id: 3,
+    image: Parallax,
+    title: "Parallax Project",
+    category: "Frontend",
+    link: "https://parallax-opal-six.vercel.app/",
+  },
+  {
+    id: 4,
     image: ImagingAI,
     title: "Fullstack AI Imaging App",
     category: "Fullstack",
     link: "https://imaging-ai.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     image: aiAssistant,
     title: "Fullstack AI Assistant Chat App",
     category: "Fullstack",
     link: "https://github.com/GPVcode/aiAssistant"
   },
   {
-    id: 5,
+    id: 6,
     image: RestaurantReservation,
     title: "Fullstack Restaurant Reservation App",
     category: "Fullstack",
     link: "https://restaurant-reservation-app-navy.vercel.app/dashboard"
   },
   {
-    id: 6,
+    id: 7,
     image: WeLoveMovies,
     title: "Movie Website App",
     category: "Backend",
     link: "https://github.com/GPVcode/We-Love-Movies-Project"
   },
   {
-    id: 7,
+    id: 8,
     image: Flashcards,
     title: "GPVdev Flashcards App",
     category: "Frontend",
@@ -80,21 +80,21 @@ export const projectsData = [
   //   link: "https://image-gen-xi.vercel.app/"
   // },
   {
-    id: 8,
+    id: 9,
     image: Tenzies,
     title: "Tenzies Game",
     category: "Frontend",
     link: "https://tenzies-two.vercel.app/"
   },
   {
-    id: 9,
+    id: 10,
     image: DecoderRing,
     title: "Decoder Ring",
     category: "Frontend",
     link: "https://decoder-ring-omega.vercel.app/"
   },
   {
-    id: 10,
+    id: 11,
     image: GPVdevbnb,
     title: "GPVdevbnb",
     category: "Frontend",
